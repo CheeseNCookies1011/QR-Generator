@@ -9,7 +9,7 @@
 
 - Linking with QRCode
 - Code rendering with Syntax highlighting
-- Export as PDF
+- Export as PDF cuz its nice
 
 ### 🧩 Dependencies
 
